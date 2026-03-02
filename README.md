@@ -4,7 +4,7 @@ This project analyzes fictional retail transaction data to uncover customer beha
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 - Analyze retail sales data for trends & patterns
 - Create dynamic Power BI dashboards for business users
 - Perform exploratory data analysis (EDA) using Python
@@ -13,7 +13,7 @@ This project analyzes fictional retail transaction data to uncover customer beha
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File | Description |
 |------|-------------|
@@ -23,7 +23,7 @@ This project analyzes fictional retail transaction data to uncover customer beha
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - **Python**: Pandas, Matplotlib, Seaborn
 - **Excel**: PivotTables for ad-hoc reporting
 - **Power BI**: Dashboard visualizations
@@ -31,7 +31,7 @@ This project analyzes fictional retail transaction data to uncover customer beha
 
 ---
 
-## 📊 Key Visuals in Power BI
+##  Key Visuals in Power BI
 - **Monthly Sales Trends** (Line Chart)
 - **Category-wise Sales** (Bar Chart)
 - **Gender & Age Group Segmentation** (Donut Charts)
@@ -40,15 +40,15 @@ This project analyzes fictional retail transaction data to uncover customer beha
 
 ---
 
-## 🔍 Insights
-- 📈 **Sales peaked in May 2023**, then steadily declined — likely seasonal impact
-- 👩‍🦰 **Female customers** slightly outspent males by 2%
-- 👶 **26–35 age group** contributed the highest revenue share
-- 🛍️ **Electronics & Clothing** were top-performing categories
+##  Insights
+-  **Sales peaked in May 2023**, then steadily declined — likely seasonal impact
+-  **Female customers** slightly outspent males by 2%
+-  **26–35 age group** contributed the highest revenue share
+-  **Electronics & Clothing** were top-performing categories
 
 ---
 
-## 📌 How to Run This Project
+##  How to Run This Project
 
 ### Run Python EDA
 ```bash
